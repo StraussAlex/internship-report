@@ -1,0 +1,22 @@
+# LaTeX auxiliary files
+*.aux
+*.log
+*.toc
+*.out
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Bibliography auxiliary files
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+
+# Generated PDF
+main.pdf
+
+# Docker or build folders
+_build/
